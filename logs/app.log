@@ -1,0 +1,6 @@
+{"level":"info","message":"query{\"countrycode\":\"US\",\"Category\":\"Automobile\"}, baseBid: 10"}
+{"level":"info","message":"BaseTargeting: {C1, Passed} \n{C2, Failed} \n{C3, Passed} \n"}
+{"level":"info","message":"BudgetCheck: {C1, Passed} \n{C3, Passed} \n"}
+{"level":"info","message":"BaseBid: {C1, Passed} \n{C3, Failed} \n"}
+{"level":"info","message":"Winner is: C1"}
+{"message":"::1 - - [20/Aug/2018:16:27:19 +0000] \"GET /companies?countrycode=US&Category=Automobile&BaseBid=10 HTTP/1.1\" 200 4 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36\"\n","level":"info"}
